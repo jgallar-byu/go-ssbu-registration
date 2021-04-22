@@ -13,7 +13,7 @@
       <div class="container">
         <div class="columns">
           <div class="column">
-            <p>FOOTER!</p>
+            <a href="https://github.com/jgallar-byu/go-ssbu-registration">GitHub Code!</a>
           </div>
         </div>
       </div>
